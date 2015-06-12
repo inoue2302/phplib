@@ -14,7 +14,7 @@
     "autoload": {
       "psr-0": {
         "Mylib/myAuth": "/"
-        "Mylib/aws/sqs": "/"
+        "Mylib\aws\sqs": "/"
       }
     }
 }
