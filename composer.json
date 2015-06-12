@@ -1,0 +1,19 @@
+{
+    "name": "inoue2302/phplib",
+    "description": "shota inoue library",
+    "keywords": ["shotainoue"],
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/inoue2302/phplib",
+    "authors": [
+      {
+        "name": "shotainoue",
+        "email": "inoue23025580@gmail.com"
+      }
+    ],
+    "autoload": {
+      "psr-0": {
+        "Mylib/myAuth": "/"
+      }
+    }
+}
